@@ -1,6 +1,7 @@
 # password_generator_py
 
-A Simple password generator written with python
+A Simple password generator is written with python
+
 ## Requirements
 
 * Python 3.9.4
